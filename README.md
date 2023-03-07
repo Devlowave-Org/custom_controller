@@ -9,4 +9,5 @@
 
 
 ### A quoi ça va servir ?
-// in build
+> A jouer a un PAC-MAN™ sur le thème de l'écologie (le repo n'est pas encore disponible)
+> Cette mannette servira surtout à faire jouer les participants de l'armada de la participation, un festival ou Devlowave aura un stand
